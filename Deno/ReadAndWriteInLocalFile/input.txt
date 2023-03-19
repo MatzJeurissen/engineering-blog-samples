@@ -1,2 +1,0 @@
-This is a demo for Deno
-In this demo we will write some text in a file
